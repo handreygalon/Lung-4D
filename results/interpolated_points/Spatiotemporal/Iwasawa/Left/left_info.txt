@@ -1,0 +1,350 @@
+imgnumber=1
+	(Step 1) Root: Image: 1 - Sequence: 9
+	(Step 2) Reg. images: [11, 1, 10, 4, 13, 9, 1, 43]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 4, 2, 3, 5, 6, 7, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 0, 0, 0, 17]
+
+imgnumber=2
+	(Step 1) Root: Image: 2 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 10, 3, 14, 1, 19, 15]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 4, 2, 7, 3, 5, 6, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 1, 0, 0, 17]
+
+imgnumber=3
+	(Step 1) Root: Image: 3 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 3, 3, 15]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 1, 4, 2, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=4
+	(Step 1) Root: Image: 4 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 13, 0, -1, 3, 4, 35]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 3, 2, 7, 6, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=5
+	(Step 1) Root: Image: 5 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 13, 0, -1, 4, 4, 0]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 3, 2, 6, 7, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=6
+	(Step 1) Root: Image: 6 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 3, 19, 2]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 2, 4, 5, 7, 3, 6, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 1, 0, 0, 17]
+
+imgnumber=7
+	(Step 1) Root: Image: 7 - Sequence: 9
+	(Step 2) Reg. images: [11, 1, 11, 17, 13, 9, 9, 3]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 2, 5, 6, 3, 4, 7, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 0, 0, 0, 17]
+
+imgnumber=8
+	(Step 1) Root: Image: 8 - Sequence: 9
+	(Step 2) Reg. images: [7, 0, 0, 5, 0, 19, 11, 25]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 5, 6, 4, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 13, 13, 11, 45, 5]
+
+imgnumber=9
+	(Step 1) Root: Image: 9 - Sequence: 9
+	(Step 2) Reg. images: [6, 13, 1, 27, 1, 12, 15, 47]
+	Root sagittal sequence: 6
+	Roots sagittal sequences: [6, 4, 1, 5, 2, 3, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 10, 8, 5, 10, 7]
+
+imgnumber=10
+	(Step 1) Root: Image: 10 - Sequence: 9
+	(Step 2) Reg. images: [24, 15, 22, 31, 10, 17, -1, 6]
+	Root sagittal sequence: 6
+	Roots sagittal sequences: [6, 4, 5, 1, 3, 2, 8]
+	(Step 3) Reg. images: [8, -1, 27, 16, -1, 9, 20, -1, 22]
+
+imgnumber=11
+	(Step 1) Root: Image: 11 - Sequence: 9
+	(Step 2) Reg. images: [5, 16, 2, 8, 2, 14, -1, 6]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 5, 4, 8, 2, 6, 3]
+	(Step 3) Reg. images: [8, -1, 27, 15, 10, 9, 8, 42, 20]
+
+imgnumber=12
+	(Step 1) Root: Image: 12 - Sequence: 9
+	(Step 2) Reg. images: [24, 15, 22, 31, 2, 14, -1, 5]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 5, 1, 3, 2, 8, 6]
+	(Step 3) Reg. images: [8, -1, 27, 12, -1, 11, 6, 42, 37]
+
+imgnumber=13
+	(Step 1) Root: Image: 13 - Sequence: 9
+	(Step 2) Reg. images: [6, 13, 1, 27, 30, 13, 13, 4]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 2, 5, 7, 3, 8, 6]
+	(Step 3) Reg. images: [7, -1, 12, 10, 10, 12, 19, 41, 35]
+
+imgnumber=14
+	(Step 1) Root: Image: 14 - Sequence: 9
+	(Step 2) Reg. images: [7, 12, 8, 6, 11, 19, 11, 3]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 4, 3, 2, 6, 5, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 13, 13, 11, 45, 5]
+
+imgnumber=15
+	(Step 1) Root: Image: 15 - Sequence: 9
+	(Step 2) Reg. images: [9, 1, 11, 17, 12, 0, 0, 13]
+	Root sagittal sequence: 2
+	Roots sagittal sequences: [2, 1, 3, 8, 4, 6, 7, 5]
+	(Step 3) Reg. images: [12, 10, 9, 44, 28, 0, 12, 8, 33]
+
+imgnumber=16
+	(Step 1) Root: Image: 16 - Sequence: 9
+	(Step 2) Reg. images: [11, 1, 10, 4, 14, 1, 19, 2]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 7, 4, 2, 3, 5, 6, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 0, 0, 0, 17]
+
+imgnumber=17
+	(Step 1) Root: Image: 17 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 3, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 1, 2, 4, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=18
+	(Step 1) Root: Image: 18 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, 14, 3, 4, 0]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 2, 5, 3, 7, 6, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=19
+	(Step 1) Root: Image: 19 - Sequence: 9
+	(Step 2) Reg. images: [-1, 4, 13, 0, 14, 4, 4, 35]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 3, 2, 5, 6, 7, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=20
+	(Step 1) Root: Image: 20 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, 14, 3, 19, 2]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 2, 5, 7, 3, 6, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=21
+	(Step 1) Root: Image: 21 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 10, 3, 14, 9, 1, 43]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 4, 2, 3, 5, 6, 7, 8]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 1, 0, 0, 17]
+
+imgnumber=22
+	(Step 1) Root: Image: 22 - Sequence: 9
+	(Step 2) Reg. images: [9, 1, 10, 4, 13, 10, 0, 3]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 2, 1, 3, 5, 7, 6, 8]
+	(Step 3) Reg. images: [5, 9, 23, 26, 8, 0, 3, 29, 4]
+
+imgnumber=23
+	(Step 1) Root: Image: 23 - Sequence: 9
+	(Step 2) Reg. images: [7, 0, 0, 5, 0, 11, 11, 4]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 5, 4, 6, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 13, 13, 11, 45, 5]
+
+imgnumber=24
+	(Step 1) Root: Image: 24 - Sequence: 9
+	(Step 2) Reg. images: [38, 12, 8, 6, 1, 12, 12, 46]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 6, 1, 3, 5, 2, 7, 8]
+	(Step 3) Reg. images: [6, 11, 11, 11, 10, 13, 34, 10, 6]
+
+imgnumber=25
+	(Step 1) Root: Image: 25 - Sequence: 9
+	(Step 2) Reg. images: [38, 12, 8, 6, 11, 11, 13, 46]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 3, 2, 5, 6, 7, 8]
+	(Step 3) Reg. images: [6, 11, 11, 11, 10, 13, 34, 10, 6]
+
+imgnumber=26
+	(Step 1) Root: Image: 26 - Sequence: 9
+	(Step 2) Reg. images: [9, 0, 0, 5, 12, 10, 29, 25]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 4, 5, 6, 7, 8]
+	(Step 3) Reg. images: [6, 11, 11, 18, 28, 14, 12, 13, 17]
+
+imgnumber=27
+	(Step 1) Root: Image: 27 - Sequence: 9
+	(Step 2) Reg. images: [9, 1, 11, 4, 13, 0, 9, 13]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 2, 1, 5, 3, 8, 6, 7]
+	(Step 3) Reg. images: [5, 9, 23, 26, 8, 0, 3, 29, 4]
+
+imgnumber=28
+	(Step 1) Root: Image: 28 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 1, 19, 2]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 2, 5, 7, 3, 6, 8]
+	(Step 3) Reg. images: [5, 9, 8, 8, 24, 1, 16, 16, 16]
+
+imgnumber=29
+	(Step 1) Root: Image: 29 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 3, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 1, 2, 4, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=30
+	(Step 1) Root: Image: 30 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, 14, 3, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 2, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=31
+	(Step 1) Root: Image: 31 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, -1, 4, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 2, 6, 3, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=32
+	(Step 1) Root: Image: 32 - Sequence: 9
+	(Step 2) Reg. images: [11, -1, 13, 0, 14, 3, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 3, 5, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=33
+	(Step 1) Root: Image: 33 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 13, 0, -1, 4, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 3, 2, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=34
+	(Step 1) Root: Image: 34 - Sequence: 9
+	(Step 2) Reg. images: [-1, -1, 13, 1, -1, 4, 4, 35]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 3, 6, 7, 8]
+	(Step 3) Reg. images: [5, 9, 22, 8, 0, 33, 15, 3, 16]
+
+imgnumber=35
+	(Step 1) Root: Image: 35 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 13, 0, 14, 4, 4, 0]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 3, 2, 5, 6, 7, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=36
+	(Step 1) Root: Image: 36 - Sequence: 9
+	(Step 2) Reg. images: [-1, -1, 13, 1, -1, 4, 4, 0]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 3, 6, 7, 8]
+	(Step 3) Reg. images: [5, 9, 22, 8, 0, 33, 15, 3, 16]
+
+imgnumber=37
+	(Step 1) Root: Image: 37 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, 14, 3, 3, 2]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 2, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=38
+	(Step 1) Root: Image: 38 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 10, 4, 13, 9, 9, 13]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 2, 4, 3, 5, 6, 8, 7]
+	(Step 3) Reg. images: [6, 11, 9, 19, 2, 0, 0, 0, 17]
+
+imgnumber=39
+	(Step 1) Root: Image: 39 - Sequence: 9
+	(Step 2) Reg. images: [9, 0, 11, 17, 12, 0, 0, 24]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 4, 6, 7, 5, 8]
+	(Step 3) Reg. images: [6, 11, 11, 18, 28, 14, 12, 13, 17]
+
+imgnumber=40
+	(Step 1) Root: Image: 40 - Sequence: 9
+	(Step 2) Reg. images: [7, 12, 0, 5, 0, 10, 29, 25]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 5, 4, 6, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 13, 13, 11, 45, 5]
+
+imgnumber=41
+	(Step 1) Root: Image: 41 - Sequence: 9
+	(Step 2) Reg. images: [38, 12, 8, 6, 11, 12, 13, 47]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 6, 1, 3, 2, 5, 7, 8]
+	(Step 3) Reg. images: [6, 11, 11, 11, 10, 13, 34, 10, 6]
+
+imgnumber=42
+	(Step 1) Root: Image: 42 - Sequence: 9
+	(Step 2) Reg. images: [6, 13, 1, 27, 1, 17, 15, 10]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 1, 5, 2, 6, 7, 3, 8]
+	(Step 3) Reg. images: [7, -1, 12, 10, 10, 12, 19, 41, 35]
+
+imgnumber=43
+	(Step 1) Root: Image: 43 - Sequence: 9
+	(Step 2) Reg. images: [24, 14, 7, 7, 30, 17, 15, 5]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 6, 5, 7, 1, 8, 2, 3]
+	(Step 3) Reg. images: [8, -1, 27, 12, -1, 8, 5, 42, 19]
+
+imgnumber=44
+	(Step 1) Root: Image: 44 - Sequence: 9
+	(Step 2) Reg. images: [38, 12, 8, 27, 1, 12, 13, 4]
+	Root sagittal sequence: 6
+	Roots sagittal sequences: [6, 1, 4, 3, 5, 2, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 10, 8, 5, 10, 7]
+
+imgnumber=45
+	(Step 1) Root: Image: 45 - Sequence: 9
+	(Step 2) Reg. images: [7, 12, 0, 5, 0, 19, 29, 3]
+	Root sagittal sequence: 1
+	Roots sagittal sequences: [1, 3, 2, 5, 6, 4, 7, 8]
+	(Step 3) Reg. images: [8, -1, 12, 1, 13, 13, 11, 45, 5]
+
+imgnumber=46
+	(Step 1) Root: Image: 46 - Sequence: 9
+	(Step 2) Reg. images: [7, 1, 11, 17, 13, 0, 9, 43]
+	Root sagittal sequence: 2
+	Roots sagittal sequences: [2, 5, 1, 3, 4, 6, 7, 8]
+	(Step 3) Reg. images: [12, 10, 9, 44, 28, 0, 12, 8, 33]
+
+imgnumber=47
+	(Step 1) Root: Image: 47 - Sequence: 9
+	(Step 2) Reg. images: [9, 4, 10, 4, 14, 9, 19, 15]
+	Root sagittal sequence: 2
+	Roots sagittal sequences: [2, 7, 4, 1, 3, 5, 6, 8]
+	(Step 3) Reg. images: [12, 10, 23, 9, 14, 1, 40, 7, 3]
+
+imgnumber=48
+	(Step 1) Root: Image: 48 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 3, 14, 3, 3, 35]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 1, 4, 2, 5, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
+imgnumber=49
+	(Step 1) Root: Image: 49 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 13, 0, -1, 4, 4, 0]
+	Root sagittal sequence: 4
+	Roots sagittal sequences: [4, 3, 2, 1, 6, 7, 8]
+	(Step 3) Reg. images: [4, 25, 22, 7, 7, 3, 2, 16, 16]
+
+imgnumber=50
+	(Step 1) Root: Image: 50 - Sequence: 9
+	(Step 2) Reg. images: [11, 4, 12, 0, -1, 3, 3, 0]
+	Root sagittal sequence: 7
+	Roots sagittal sequences: [7, 4, 1, 2, 3, 6, 8]
+	(Step 3) Reg. images: [12, 0, 1, 3, 15, 29, 14, 6, 3]
+
